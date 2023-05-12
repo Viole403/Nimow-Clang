@@ -1,1 +1,1 @@
-https://github.com/Viole403/Nimow-Clang/releases/download/16.0.4-20230511-release/Clang-16.0.4-20230511.tar.gz
+https://github.com/Viole403/Nimow-Clang/releases/download/16.0.4-20230512-release/Clang-16.0.4-20230512.tar.gz
